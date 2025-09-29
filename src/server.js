@@ -2,7 +2,7 @@ import express from "express"
 import morgan from "morgan"
 import 'dotenv/config'
 
-import { postsRoutes, userRoutes } from "./routes/index.js"
+import { commentsRoutes, postsRoutes, userRoutes } from "./routes/index.js"
 
 const app = express()
 // const PORT = process.env.PORT || 3000
@@ -14,7 +14,7 @@ app.use(morgan('tiny'))
 //routes
 app.use("/users", userRoutes)
 app.use("/posts", postsRoutes)
-
+app.use("/comments", commentsRoutes)
 
 
 

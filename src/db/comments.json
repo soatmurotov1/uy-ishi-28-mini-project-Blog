@@ -1,0 +1,794 @@
+[
+  {
+    "id": "8ba86602-32e1-45a2-9168-9dad4bf2f8f6",
+    "post_id": "105",
+    "author_id": "user8",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-23 16:07",
+    "updated_at": "2025-09-30 08:41"
+  },
+  {
+    "id": "1dbc9c68-2ad2-4c05-abbf-6ec1409c7ad0",
+    "post_id": "105",
+    "author_id": "user10",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-11 14:02",
+    "updated_at": "2025-09-10 12:43"
+  },
+  {
+    "id": "5f9cb563-ee6a-4237-ae33-52add826c60d",
+    "post_id": "101",
+    "author_id": "user1",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-28 19:01",
+    "updated_at": "2025-09-08 23:22"
+  },
+  {
+    "id": "95f44bcb-2bba-403d-9867-3795441d7986",
+    "post_id": "108",
+    "author_id": "user9",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-19 07:05",
+    "updated_at": "2025-09-07 23:16"
+  },
+  {
+    "id": "19f24ad8-7252-4f5e-b0dd-cb3c100b4614",
+    "post_id": "103",
+    "author_id": "user4",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-08 10:01",
+    "updated_at": "2025-09-30 08:55"
+  },
+  {
+    "id": "4a7b4bcf-4bf1-4c70-9292-ee167937e858",
+    "post_id": "108",
+    "author_id": "user9",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-25 06:15",
+    "updated_at": "2025-09-01 04:16"
+  },
+  {
+    "id": "eb9d1d09-221e-4d74-8e63-4dfb6c938e20",
+    "post_id": "110",
+    "author_id": "user9",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-01 10:37",
+    "updated_at": "2025-09-22 20:24"
+  },
+  {
+    "id": "4f0611b2-6227-44d0-a43e-3feb23cc80e2",
+    "post_id": "105",
+    "author_id": "user3",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-01 20:25",
+    "updated_at": "2025-09-21 02:08"
+  },
+  {
+    "id": "80b007f2-149f-43a0-985d-bccb9bcfc48c",
+    "post_id": "103",
+    "author_id": "user1",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-18 20:59",
+    "updated_at": "2025-09-07 00:27"
+  },
+  {
+    "id": "6dcee5d6-4f47-4b47-8a98-cf2f4e2ad8eb",
+    "post_id": "106",
+    "author_id": "user6",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-27 11:56",
+    "updated_at": "2025-09-22 23:45"
+  },
+  {
+    "id": "ac4a394c-7b3c-41b4-b441-5f437b3484b4",
+    "post_id": "102",
+    "author_id": "user2",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-20 10:11",
+    "updated_at": "2025-09-28 19:09"
+  },
+  {
+    "id": "791e6e0e-d857-4806-906b-6c0415a5c500",
+    "post_id": "106",
+    "author_id": "user10",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-27 02:55",
+    "updated_at": "2025-09-06 14:51"
+  },
+  {
+    "id": "af5001a7-0d12-4bc3-81eb-cff0a02beb9e",
+    "post_id": "108",
+    "author_id": "user7",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-27 05:46",
+    "updated_at": "2025-09-11 10:18"
+  },
+  {
+    "id": "ee6ebb59-94a1-43f6-86cf-606d187695dc",
+    "post_id": "110",
+    "author_id": "user6",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-20 12:48",
+    "updated_at": "2025-09-23 14:34"
+  },
+  {
+    "id": "3cbe6ac6-8132-4172-bad8-44087234cfd5",
+    "post_id": "106",
+    "author_id": "user10",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-13 02:13",
+    "updated_at": "2025-09-02 02:46"
+  },
+  {
+    "id": "b7d6bb07-0eac-4dba-bd56-984d36d9c26c",
+    "post_id": "109",
+    "author_id": "user9",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-28 23:11",
+    "updated_at": "2025-09-05 18:31"
+  },
+  {
+    "id": "fb637575-b4db-4aa6-95ff-c14004a3cfa8",
+    "post_id": "110",
+    "author_id": "user3",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-01 11:55",
+    "updated_at": "2025-09-30 17:52"
+  },
+  {
+    "id": "1b715e4e-d893-482a-8a14-b930164d1262",
+    "post_id": "108",
+    "author_id": "user4",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-08 04:43",
+    "updated_at": "2025-09-05 12:14"
+  },
+  {
+    "id": "9fd479dd-ef8e-4e8f-8bec-c9bb5d18d8d1",
+    "post_id": "104",
+    "author_id": "user10",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-17 01:22",
+    "updated_at": "2025-09-24 09:03"
+  },
+  {
+    "id": "915e3ee3-7d2a-4d87-8732-c8ec12c4882d",
+    "post_id": "104",
+    "author_id": "user7",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-14 04:07",
+    "updated_at": "2025-09-29 15:41"
+  },
+  {
+    "id": "8a5d502e-7d20-410d-bed6-1a37e8c69c0c",
+    "post_id": "105",
+    "author_id": "user1",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-19 13:46",
+    "updated_at": "2025-09-27 21:17"
+  },
+  {
+    "id": "954f6111-a35c-415b-8851-6b58661d8e70",
+    "post_id": "109",
+    "author_id": "user3",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-14 09:56",
+    "updated_at": "2025-09-06 21:57"
+  },
+  {
+    "id": "62f23775-3db4-4cfc-9d9b-b27b4b839e21",
+    "post_id": "107",
+    "author_id": "user10",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-23 00:26",
+    "updated_at": "2025-09-02 02:51"
+  },
+  {
+    "id": "4dfb07c1-aa32-4c7c-8650-da61142adb83",
+    "post_id": "109",
+    "author_id": "user5",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-20 06:04",
+    "updated_at": "2025-09-23 00:37"
+  },
+  {
+    "id": "5ffaf1be-5cc9-4ba0-8249-1b66cc2d5215",
+    "post_id": "105",
+    "author_id": "user10",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-06 17:41",
+    "updated_at": "2025-09-23 09:06"
+  },
+  {
+    "id": "485f6fc9-a90e-4367-8545-c67bd4695658",
+    "post_id": "110",
+    "author_id": "user10",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-28 15:35",
+    "updated_at": "2025-09-01 10:37"
+  },
+  {
+    "id": "aa17f2a6-2493-46e4-94b3-9935c09197c5",
+    "post_id": "105",
+    "author_id": "user2",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-23 01:44",
+    "updated_at": "2025-09-06 17:57"
+  },
+  {
+    "id": "d4d76757-e0e5-4a59-97f7-c7c5213368b5",
+    "post_id": "109",
+    "author_id": "user10",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-30 18:26",
+    "updated_at": "2025-09-10 11:23"
+  },
+  {
+    "id": "db5aefb4-e78c-41ef-8a9d-c4b7f2251b74",
+    "post_id": "107",
+    "author_id": "user10",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-21 19:06",
+    "updated_at": "2025-09-20 17:40"
+  },
+  {
+    "id": "5c1f56e0-0804-4c97-ab9c-d8423e309567",
+    "post_id": "105",
+    "author_id": "user9",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-02 23:57",
+    "updated_at": "2025-09-22 18:38"
+  },
+  {
+    "id": "24ee5f04-3fc4-4d30-9685-4cdc4443f41b",
+    "post_id": "107",
+    "author_id": "user4",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-25 16:27",
+    "updated_at": "2025-09-08 09:56"
+  },
+  {
+    "id": "477db4a1-c933-49d6-9101-483fc3afe9fe",
+    "post_id": "110",
+    "author_id": "user9",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-13 06:26",
+    "updated_at": "2025-09-07 00:46"
+  },
+  {
+    "id": "4fc43a85-7d99-4999-a196-ada1364eb94a",
+    "post_id": "108",
+    "author_id": "user3",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-22 01:17",
+    "updated_at": "2025-09-25 09:06"
+  },
+  {
+    "id": "eb433f9b-746b-46ac-a05f-ac3f119a4b57",
+    "post_id": "102",
+    "author_id": "user6",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-15 15:08",
+    "updated_at": "2025-09-30 13:19"
+  },
+  {
+    "id": "dc3254ce-7cfc-499d-b110-34b60f7a4ebe",
+    "post_id": "105",
+    "author_id": "user10",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-28 12:37",
+    "updated_at": "2025-09-22 20:48"
+  },
+  {
+    "id": "13099777-b9ab-4d6a-867e-bc667c225ab8",
+    "post_id": "105",
+    "author_id": "user9",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-16 13:06",
+    "updated_at": "2025-09-20 07:20"
+  },
+  {
+    "id": "2ceb4634-2a7d-48a3-ac69-73b934859820",
+    "post_id": "110",
+    "author_id": "user2",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-17 02:57",
+    "updated_at": "2025-09-15 16:20"
+  },
+  {
+    "id": "5c49cc5d-2bf7-4d75-a5e5-f6d317c15012",
+    "post_id": "104",
+    "author_id": "user5",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-20 09:07",
+    "updated_at": "2025-09-16 05:48"
+  },
+  {
+    "id": "bc16666c-75d4-4616-a1d6-3f85e7313aff",
+    "post_id": "108",
+    "author_id": "user9",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-11 05:42",
+    "updated_at": "2025-09-03 08:49"
+  },
+  {
+    "id": "d2a316ca-454b-4467-b905-529ff563185e",
+    "post_id": "102",
+    "author_id": "user3",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-26 01:00",
+    "updated_at": "2025-09-10 22:10"
+  },
+  {
+    "id": "b95431d5-1e05-4b19-bd46-dcccfbd52559",
+    "post_id": "103",
+    "author_id": "user6",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-26 12:04",
+    "updated_at": "2025-09-25 17:19"
+  },
+  {
+    "id": "14c8b1ce-681c-4b1a-9909-501f95c90f12",
+    "post_id": "101",
+    "author_id": "user5",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-21 18:54",
+    "updated_at": "2025-09-26 06:14"
+  },
+  {
+    "id": "70d0b19d-561f-4264-a139-f4677a9356a0",
+    "post_id": "104",
+    "author_id": "user5",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-28 02:52",
+    "updated_at": "2025-09-10 05:57"
+  },
+  {
+    "id": "be3e175b-ad95-4795-b453-c03a6654b256",
+    "post_id": "105",
+    "author_id": "user6",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-02 14:49",
+    "updated_at": "2025-09-01 09:18"
+  },
+  {
+    "id": "7a4e6a57-6c91-447d-ba34-adbbf0f0064a",
+    "post_id": "101",
+    "author_id": "user6",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-30 16:10",
+    "updated_at": "2025-09-19 11:34"
+  },
+  {
+    "id": "69405241-4ba0-48e6-bb51-b9f62091be16",
+    "post_id": "108",
+    "author_id": "user8",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-18 05:04",
+    "updated_at": "2025-09-14 02:31"
+  },
+  {
+    "id": "a07eae50-9017-4f1f-8563-6bdcc376ce5d",
+    "post_id": "105",
+    "author_id": "user10",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-17 08:22",
+    "updated_at": "2025-09-15 14:33"
+  },
+  {
+    "id": "fbaa1b89-2602-4de0-9565-597ae68fce45",
+    "post_id": "102",
+    "author_id": "user5",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-06 21:00",
+    "updated_at": "2025-09-11 20:00"
+  },
+  {
+    "id": "668702fc-9678-4e01-b81b-e77dba5e7041",
+    "post_id": "101",
+    "author_id": "user2",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-03 19:00",
+    "updated_at": "2025-09-15 08:21"
+  },
+  {
+    "id": "feefaa0a-7303-4fa0-ad57-06f5bc7560f7",
+    "post_id": "104",
+    "author_id": "user9",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-28 06:08",
+    "updated_at": "2025-09-19 06:13"
+  },
+  {
+    "id": "3d82eba5-09ef-48a2-8011-783041c2e30d",
+    "post_id": "101",
+    "author_id": "user5",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-15 23:47",
+    "updated_at": "2025-09-29 09:01"
+  },
+  {
+    "id": "893f12d4-096b-4ba2-9ac9-a595f422b347",
+    "post_id": "107",
+    "author_id": "user6",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-18 19:33",
+    "updated_at": "2025-09-08 21:11"
+  },
+  {
+    "id": "f3a1155b-9044-4a6e-8066-c744f83d8c34",
+    "post_id": "109",
+    "author_id": "user7",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-20 14:30",
+    "updated_at": "2025-09-25 10:45"
+  },
+  {
+    "id": "c45663d9-6878-4ec5-b0a0-403c3f0540eb",
+    "post_id": "103",
+    "author_id": "user2",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-08 02:15",
+    "updated_at": "2025-09-25 09:02"
+  },
+  {
+    "id": "cd12387a-1217-4278-bd37-7d4f236e1653",
+    "post_id": "107",
+    "author_id": "user10",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-22 15:10",
+    "updated_at": "2025-09-18 11:05"
+  },
+  {
+    "id": "501d8851-22f2-4b5e-8c63-1c9def985c02",
+    "post_id": "107",
+    "author_id": "user10",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-01 11:22",
+    "updated_at": "2025-09-03 11:31"
+  },
+  {
+    "id": "86664ef6-97ad-4843-b5ad-32fc064273c1",
+    "post_id": "105",
+    "author_id": "user5",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-23 12:09",
+    "updated_at": "2025-09-05 17:37"
+  },
+  {
+    "id": "6d4b4289-07f2-4e96-8d10-f4a2a8e41c70",
+    "post_id": "108",
+    "author_id": "user3",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-02 07:28",
+    "updated_at": "2025-09-03 06:04"
+  },
+  {
+    "id": "c85279e0-7732-4590-9b08-bb74a1cd5c46",
+    "post_id": "102",
+    "author_id": "user7",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-09 11:59",
+    "updated_at": "2025-09-24 09:02"
+  },
+  {
+    "id": "483424c1-e1c8-4dda-b55f-b7c4493cdc3b",
+    "post_id": "108",
+    "author_id": "user4",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-03 20:41",
+    "updated_at": "2025-09-09 22:08"
+  },
+  {
+    "id": "acd6a156-6a3b-49ad-96d8-68a0c1de57f8",
+    "post_id": "102",
+    "author_id": "user8",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-28 14:47",
+    "updated_at": "2025-09-11 10:08"
+  },
+  {
+    "id": "229cd44d-5ff0-4db7-a210-2745a5c5e040",
+    "post_id": "102",
+    "author_id": "user7",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-18 17:53",
+    "updated_at": "2025-09-10 17:16"
+  },
+  {
+    "id": "beeafc7f-d963-4d86-af69-c8009ed5fe96",
+    "post_id": "105",
+    "author_id": "user3",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-02 04:19",
+    "updated_at": "2025-09-26 06:20"
+  },
+  {
+    "id": "cc60eafa-b0c2-405b-92a9-6adf50df4f7b",
+    "post_id": "110",
+    "author_id": "user7",
+    "content": "Ha, to‘g‘ri aytasiz.",
+    "created_at": "2025-09-25 05:29",
+    "updated_at": "2025-09-12 10:02"
+  },
+  {
+    "id": "5fbee2d1-3453-4c3d-b3ff-48ea7d34e42d",
+    "post_id": "109",
+    "author_id": "user5",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-21 10:00",
+    "updated_at": "2025-09-20 00:46"
+  },
+  {
+    "id": "fd9ac90e-598c-451f-8bc5-f0077cc81848",
+    "post_id": "110",
+    "author_id": "user6",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-06 07:19",
+    "updated_at": "2025-09-11 16:56"
+  },
+  {
+    "id": "24a1e183-f920-449b-8908-24c7849bfa74",
+    "post_id": "106",
+    "author_id": "user8",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-14 20:07",
+    "updated_at": "2025-09-16 23:34"
+  },
+  {
+    "id": "67f96443-c6b1-4c33-844d-8e201e22969d",
+    "post_id": "102",
+    "author_id": "user8",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-12 03:30",
+    "updated_at": "2025-09-07 10:14"
+  },
+  {
+    "id": "63e08610-1f07-43c3-8c6a-9417225255e3",
+    "post_id": "103",
+    "author_id": "user8",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-09 07:47",
+    "updated_at": "2025-09-19 23:04"
+  },
+  {
+    "id": "0506cb7a-394a-4ded-a43f-90b032656380",
+    "post_id": "106",
+    "author_id": "user6",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-27 14:49",
+    "updated_at": "2025-09-13 00:33"
+  },
+  {
+    "id": "c01c55d0-30e4-4ab3-be09-94eb21aae386",
+    "post_id": "105",
+    "author_id": "user2",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-17 20:16",
+    "updated_at": "2025-09-30 18:44"
+  },
+  {
+    "id": "313051c5-c377-491a-b704-45819925e08e",
+    "post_id": "104",
+    "author_id": "user5",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-06 13:14",
+    "updated_at": "2025-09-10 04:11"
+  },
+  {
+    "id": "d3b19a8b-90a0-408a-b207-3d3846264608",
+    "post_id": "106",
+    "author_id": "user7",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-13 18:04",
+    "updated_at": "2025-09-16 11:44"
+  },
+  {
+    "id": "7fb51ee6-ea21-424f-b37b-763ddb904f20",
+    "post_id": "107",
+    "author_id": "user8",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-22 19:27",
+    "updated_at": "2025-09-01 21:20"
+  },
+  {
+    "id": "e8228ad4-4213-4d1b-9832-e7ea36281e08",
+    "post_id": "101",
+    "author_id": "user9",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-18 06:43",
+    "updated_at": "2025-09-17 23:06"
+  },
+  {
+    "id": "4c307f11-4f6b-4c31-a21b-15d9f6317c3f",
+    "post_id": "104",
+    "author_id": "user5",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-05 00:51",
+    "updated_at": "2025-09-01 15:27"
+  },
+  {
+    "id": "018f1b66-67e1-4700-b2b0-0782ac9f85ef",
+    "post_id": "110",
+    "author_id": "user3",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-06 16:56",
+    "updated_at": "2025-09-08 22:51"
+  },
+  {
+    "id": "98b5c15e-84e1-4979-9269-5c6aee978100",
+    "post_id": "102",
+    "author_id": "user4",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-28 01:44",
+    "updated_at": "2025-09-21 21:32"
+  },
+  {
+    "id": "5146cb00-7848-4afb-a747-87272c0a1d41",
+    "post_id": "106",
+    "author_id": "user9",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-19 19:25",
+    "updated_at": "2025-09-18 21:30"
+  },
+  {
+    "id": "a3b2f001-85d5-46d7-ad9e-867cbe1cf50d",
+    "post_id": "101",
+    "author_id": "user6",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-26 15:47",
+    "updated_at": "2025-09-30 12:53"
+  },
+  {
+    "id": "fadd3551-f871-4b53-a5bd-c3f4829adb51",
+    "post_id": "106",
+    "author_id": "user2",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-15 21:39",
+    "updated_at": "2025-09-02 02:14"
+  },
+  {
+    "id": "7d27e2f8-41ff-41ad-9cdb-882cfbfc0848",
+    "post_id": "106",
+    "author_id": "user8",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-19 22:50",
+    "updated_at": "2025-09-15 21:04"
+  },
+  {
+    "id": "d2d647aa-3e5a-4cd2-812e-fd89979cf683",
+    "post_id": "101",
+    "author_id": "user1",
+    "content": "Ko‘proq shunday postlar yozing.",
+    "created_at": "2025-09-01 21:36",
+    "updated_at": "2025-09-04 00:00"
+  },
+  {
+    "id": "122d157e-9f7c-4fc1-a564-6c7db2a0793b",
+    "post_id": "107",
+    "author_id": "user5",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-06 21:33",
+    "updated_at": "2025-09-11 23:14"
+  },
+  {
+    "id": "18098b56-cf85-4c64-ae35-bee38abe177f",
+    "post_id": "106",
+    "author_id": "user8",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-29 23:42",
+    "updated_at": "2025-09-23 06:05"
+  },
+  {
+    "id": "a2bc1ae2-537f-44d7-bd94-770e7ef55be9",
+    "post_id": "101",
+    "author_id": "user2",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-03 11:33",
+    "updated_at": "2025-09-23 13:47"
+  },
+  {
+    "id": "4e481c90-0fcd-4a1b-825c-b45ea9124d56",
+    "post_id": "104",
+    "author_id": "user1",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-28 15:54",
+    "updated_at": "2025-09-09 15:58"
+  },
+  {
+    "id": "13a7fe02-d73a-4131-8efd-b676c6b7c371",
+    "post_id": "106",
+    "author_id": "user7",
+    "content": "Bu menga yoqdi.",
+    "created_at": "2025-09-18 15:09",
+    "updated_at": "2025-09-04 09:30"
+  },
+  {
+    "id": "a1742f56-3207-44f8-b960-27f0b06ec4a0",
+    "post_id": "110",
+    "author_id": "user7",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-19 19:14",
+    "updated_at": "2025-09-25 10:23"
+  },
+  {
+    "id": "7f98a7ee-188a-4c93-b04d-a63dbbc647da",
+    "post_id": "110",
+    "author_id": "user8",
+    "content": "Rahmat, foydali bo‘ldi.",
+    "created_at": "2025-09-29 19:03",
+    "updated_at": "2025-09-27 11:34"
+  },
+  {
+    "id": "0f5fecd6-510f-41f6-be20-abd94062c131",
+    "post_id": "105",
+    "author_id": "user3",
+    "content": "Men ham shunday deb o‘ylayman.",
+    "created_at": "2025-09-14 19:16",
+    "updated_at": "2025-09-18 01:12"
+  },
+  {
+    "id": "304052a0-eafc-41b3-a604-abcf41df70f4",
+    "post_id": "109",
+    "author_id": "user6",
+    "content": "Yaxshi izoh.",
+    "created_at": "2025-09-06 10:12",
+    "updated_at": "2025-09-16 19:21"
+  },
+  {
+    "id": "64f04084-885e-41c2-bb16-ae5410d13286",
+    "post_id": "110",
+    "author_id": "user7",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-11 01:56",
+    "updated_at": "2025-09-08 14:47"
+  },
+  {
+    "id": "0c223ae5-ae7c-4fb3-ab3c-0cb1f5197da2",
+    "post_id": "106",
+    "author_id": "user7",
+    "content": "Bunga qo‘shimcha qilishim mumkin...",
+    "created_at": "2025-09-23 00:55",
+    "updated_at": "2025-09-06 20:41"
+  },
+  {
+    "id": "c41beaca-dd30-4232-b5fe-90544feb96a1",
+    "post_id": "107",
+    "author_id": "user3",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-22 22:21",
+    "updated_at": "2025-09-22 17:39"
+  },
+  {
+    "id": "25d85912-b39f-4d42-a1f1-fe07fc5db128",
+    "post_id": "103",
+    "author_id": "user10",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-27 16:46",
+    "updated_at": "2025-09-04 09:20"
+  },
+  {
+    "id": "c51103c6-3fb4-44d5-ac6e-eaf1bb236a39",
+    "post_id": "107",
+    "author_id": "user3",
+    "content": "Qiziqarli fikr.",
+    "created_at": "2025-09-28 21:28",
+    "updated_at": "2025-09-03 08:21"
+  },
+  {
+    "id": "3beae3bf-2685-49cf-b7f1-e04efff8e19c",
+    "post_id": "110",
+    "author_id": "user1",
+    "content": "Bu haqda ko‘proq yozing.",
+    "created_at": "2025-09-22 21:17",
+    "updated_at": "2025-09-04 17:19"
+  },
+  {
+    "id": "3e3d98fa-eaa6-4097-a0d2-55df2521814c",
+    "post_id": "106",
+    "author_id": "user8",
+    "content": "Zo‘r post!",
+    "created_at": "2025-09-20 04:50",
+    "updated_at": "2025-09-29 06:29"
+  }
+]
